@@ -1,1 +1,1 @@
-![HEADERAQUATIC3](https://github.com/Sxntido/Sxntido/assets/85844486/0c990105-fb21-4ed8-bf94-d50da49206ec)
+![BANNERDISCORDMKS](https://github.com/Sxntido/Sxntido/assets/85844486/7603f80d-c0ca-4e25-9a3c-2151d36acdf7)
