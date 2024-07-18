@@ -7,4 +7,4 @@ Sites to contact me:
 - 💻 Discord: sxntido
 - :email: Gmail: sxntido@gmail.com
 
-[![Languages and Tools](https://skillicons.dev/icons?i=java,idea,html,css,discord,kotlin,maven,ps,js)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=java,idea,html,css,bots,discord,kotlin,maven,ps,js,git,mysql)](https://skillicons.dev)
