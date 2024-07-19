@@ -8,4 +8,4 @@ Sites to contact me:
 - :email: Gmail: sxntido@gmail.com
 - 💧 Server (Discord) - [Click to Join](https://discord.gg/aquatic-studios-746600371199148143)
 
-[![Languages and Tools](https://skillicons.dev/icons?i=java,idea,html,css,bots,discord,kotlin,maven,ps,js,git,mysql)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=java,nodejs,idea,vscode,html,css,bots,discord,kotlin,maven,ps,js,git,mysql)](https://github.com/Sxntido/Sxntido)
