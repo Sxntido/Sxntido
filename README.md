@@ -1,7 +1,8 @@
 # About Me
-Hi! My name is Samuel, I am known for having experience in various categories such as Configurations, Development and Designs.
+Hello! My name is Samuel, I am known for having knowledge in several categories:
+> Graphic design - Development (Bots & Plugins) - Configurator (Discord & Minecraft
 
-CEO of [Aquatic Studios](https://github.com/aquaticstudios). I also have experience as a Community Manager and Staff Manager
+CEO of [Aquatic Studios](https://github.com/aquaticstudios). Obtain our services with total security and confidence
 
 Sites to contact me:
 - 💻 Discord: sxntido
