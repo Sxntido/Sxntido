@@ -1,6 +1,6 @@
 # About Me
 Hello! My name is Samuel, I am known for having knowledge in several categories:
-> Graphic design - Development (Bots & Plugins) - Configurator (Discord & Minecraft
+> Graphic design - Development (Bots & Plugins) - Configurator (Discord & Minecraft)
 
 CEO of [Aquatic Studios](https://github.com/aquaticstudios). Obtain our services with total security and confidence
 
