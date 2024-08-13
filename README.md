@@ -7,6 +7,6 @@ CEO of [Aquatic Studios](https://github.com/aquaticstudios). Obtain our services
 Sites to contact me:
 - 💻 Discord: sxntido
 - :email: Gmail: sxntido@gmail.com
-- 💧 Server (Discord) - [Click to Join](https://discord.gg/aquatic-studios-746600371199148143)
+- ☁ Server (Discord) - [Click to Join](https://discord.gg/aquatic-studios-746600371199148143)
 
 [![Languages and Tools](https://skillicons.dev/icons?i=java,nodejs,idea,vscode,html,css,bots,discord,kotlin,maven,ps,js,git,mysql)](https://github.com/Sxntido/Sxntido)
